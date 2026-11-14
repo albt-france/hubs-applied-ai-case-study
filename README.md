@@ -4,7 +4,10 @@ How I would run discovery, build reusable AI workflows on real data, prove they 
 written as "what I would do in my first weeks" for the Applied AI Product Associate role at Hubs.
 
 **Read:** [the report (PDF, 11 pages)](docs/Hubs_AppliedAI_CaseStudy.pdf) · [the product feedback memo](docs/PRODUCT_FEEDBACK_MEMO.md) ·
-demos: [A · CX Pulse](docs/dashboard_A.html) · [B · Competitor Watch](docs/dashboard_B.html) · [C · Client report](docs/dashboard_C.html)
+live demos: [A · CX Pulse](https://albt-france.github.io/hubs-applied-ai-case-study/dashboard_A.html) ·
+[B · Competitor Watch](https://albt-france.github.io/hubs-applied-ai-case-study/dashboard_B.html) ·
+[C · Client report](https://albt-france.github.io/hubs-applied-ai-case-study/dashboard_C.html) ·
+[project page](https://albt-france.github.io/hubs-applied-ai-case-study/)
 
 <!-- RESULTS:START -->
 **Key results** (demo mode: rules baseline, AI evaluation pending):
