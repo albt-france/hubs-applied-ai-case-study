@@ -1,0 +1,16 @@
+{
+  "workflow": "competitor_watch",
+  "mode": "demo",
+  "snapshots": 40,
+  "readable_snapshots": 32,
+  "periods_compared": 26,
+  "periods_with_change": 7,
+  "unsupported_numbers": 0,
+  "numbers_checked": 7,
+  "runtime_s": 0.0,
+  "calls": 0,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cost_usd": 0,
+  "model_time_s": 0
+}

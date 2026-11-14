@@ -1,0 +1,20 @@
+# secrets and local environment
+.env
+.venv/
+__pycache__/
+*.pyc
+*.duckdb
+.ipynb_checkpoints/
+
+# local notes (never published)
+DECISIONS.md
+HANDOFF*.md
+notes/
+
+# raw data that is not redistributed (rebuilt by src/collect_pricing.py and src/prepare_reviews.py)
+data/raw/
+
+# build and run artefacts
+outputs/report/
+outputs/dev_sim/
+outputs/logs/

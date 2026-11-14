@@ -1,0 +1,101 @@
+review_id,review_score,category,text,label_theme,label_severity
+e5d83c519c93f6b54532ccbe860a3e89,5,health_beauty,"o produto chegou bem antes do prazo estipulado,super recomendo e vou voltar a comprar novamente",praise,none
+32f33251781f37f61a1916cf612d919a,4,auto,produto entregue antes da data,praise,none
+8479cef176b66bc7d08e73468f105a17,5,cool_stuff,Gostei muito,praise,none
+3432727cf0114ae5b050ff692c7d92f3,3,health_beauty,Não recebi,not_received,high
+5ccc9d4a73ffec13d303a7b6620bcf03,3,stationery,"Recebi o produto que pedi, porém achei a mochila muito desalinhada, bamba. A parte da frente mais curta que a de trás",quality_mismatch,medium
+0b42044a79530681be4f652b385af2e0,3,baby,"Transportadora Merda. A loja escolheu os correios como transportadora. Paguei frete pelo produto, pra o carteiro não ir ao local e colocar no sistema que foi e não tinha ninguém. Achei ridículo isso!",other,medium
+d9acdab6e412cc631742aa0ad06c3a73,1,watches_gifts,Não foi entregue o relógio,not_received,high
+6166a26ecb4ebb9310c408268a289495,5,pet_shop,Entrega rápida. Produto muito bom,praise,none
+1ea2be10349982d547e96f3144afe5d0,1,stationery,"Eu cancelei o pedido por me avisarem que nao tinha o produto que eu queria, dizendo ter saido de linha apesar de o produto estar disponivel no site! Ja se passou 1 mes a ainda nao estornaram o valor",seller_service,high
+2fb3b29dfeb69d80249fcefb5af0b278,1,baby,"Produto quebrado!!. Comprei um Troninho Musical, p/ a minha surpresa veio quebrado. Estou aguardando o retorno da loja para efetuar a troca. Infelizmente, existe muita dificuldade para entrar em contato com as lojas",damaged_defective,high
+77bfe4bdc0cd1d42f8354ae9231897e3,1,housewares,O prazo de entrega muito maior que concorrentes - mais de TRINTA DIAS,delivery_late,medium
+cc455f5061e8638e3c8e9142ff309711,2,art,Pelas imagens achei q fosse tela com moldura. Até pq na discrição está escrito q a espessura e de 2 cm. Só q na verdade é um mdf de 3 mm fiquei um pouco fustratado mas tudo bem,quality_mismatch,medium
+8b5902fd32004007ded6b3d008904d63,5,computers_accessories,Excelente vendedor. Entrega rápida,praise,none
+f042bb5075dfb84954525296fd81b347,2,bed_bath_table,Ainda não recebi o produto,not_received,high
+a491b1aadbf0d30c334ff822927d76cc,5,market_place,"Produto chegou antes do prazo, e a empresa fornecedora é extremamente atenciosa",praise,none
+0e2db9f3094b64e23c8cef7a3b6fb88b,1,fashion_male_clothing,"Meu produto não chegou. Isso gerou estresse e eu não estou conseguindo fazer a devolução. Caso isso aconteça, vou por na justiça",not_received,high
+e8439b14d7ccff0783af13ec3e990f24,5,auto,Nossa muito rápido e produto de qualidade,praise,none
+91cfd9a8f46af8b4f4bad6b5a4241ae0,5,health_beauty,"Recebi o produto dentro do prazo,veio embalado e não tinha danificados. Porem, a loja targaryen não atualizava o status do pedido nem no App das lojas lannister e nem no site dos correios",seller_service,low
+b2fa7acac4cbfa62f9991421ff55545f,1,watches_gifts,Não cumpriu com o prometido,other,medium
+c3542714507b3198ccc76a6627523dff,2,furniture_decor,O produto chegou com a pintura lateral descascada. e o lacre não estava violado então ela já veio com defeito do fornecedor. mas como fica mais caro pedir pra trocar vou ter que ficar com ela,damaged_defective,medium
+cf15dd8084001fabedc71d1b6f78365a,4,baby,Chegou bem rápido,praise,none
+3137d3cac215132bc4816044bac3ee23,5,sports_leisure,Produto muito bom chegou antés do prazo,praise,none
+a04860441d4b529fdc081ae332d67c99,2,housewares,Só não gostei devido ter que retirar o produto nós correios,other,low
+37206734968d19363addecb878b50f46,3,cool_stuff,O botão liga o aparelho porém não desliga. Tem que tirar da tomada para desligar. Ou seja veio com defeito,damaged_defective,high
+c8957d15f079762d05e97063b0b6756d,4,watches_gifts,Excelente relógio,praise,none
+c09d1eff7de7e98a95c471066eed09a9,1,fashion_bags_accessories,"ainda estou aguardando o produto , ja tem quase uma mês que fiz a compra",not_received,high
+b7cf91f7c1000f7b97aeaa2514414d3f,3,sports_leisure,o rastreio não tem atualização e ja passou do prazo,delivery_late,medium
+3932eda5ef78505334d6758bcef8218b,5,auto,Legal chegou antes do que era previsto,praise,none
+a2cd6215401f66af4b352cce638f1b09,1,health_beauty,não me entregou no prazo cancelei a compra,delivery_late,high
+1f5e1aefc938520dcd8a4b301af99f67,5,musical_instruments,Foi a primeira vez que comprei nas lannister e gostei muito... espero sempre ter resultados satisfatórias nas demais compras Parabéns,praise,none
+15a1bbca011f0dd08bebccf34291199a,1,watches_gifts,Recebi o produto perfeito Grata,praise,none
+86ecdb1c61cc0479ca3150564e0d811f,3,drinks,faz um mes que comprei a ate o momento nao recebi toda a mercadoria comprada,wrong_or_incomplete,high
+39c3509454d02c7318101b6f8282139d,5,perfumery,"Produto foi entregue em perfeitas condições,ótimo produto,inclusive já estou usando,bom preço,tudo de bom,nota 11",praise,none
+1227d6b51e8b2fd6b01cd3d994d0cef6,2,garden_tools,"pedi o cancelamento da compra devido ao prazo de entrega, assim que foi feita. recebi o produto e está aqui ´rpno para devolvr. Como devolver?",seller_service,high
+d5135222e70fe4dae905a358c960c24f,5,watches_gifts,"Muito bom o produto, chegou dentro do prazo! Recomendo",praise,none
+7fba3f71c35a8ebffbdca7953aeb7943,1,health_beauty,demora no correios. eu nao posso falar se nao recebi o produto,delivery_late,medium
+4996f78ade8e673e05b937b4599f408b,4,auto,Super recomendo. Aconteceu tudo o que foi programado e dentro do prazo previsto,praise,none
+b3286575e421cac4ae92190f4a5462f6,4,bed_bath_table,Muito bom o produto recomendo,praise,none
+3053885e070ca53db4ea3c56cd1ec3fc,3,housewares,Preciso trocar meu produto. Eu quero latas de mantimentos e não latas de condimentos,wrong_or_incomplete,medium
+d7cc32cda70f6fe532889b1dc946d547,1,pet_shop,Comprei duas camas e me foi entregue apenas uma. Entrei em contato ha dois dias e ainda nao me deram qualquer satisfação! GOLPE,wrong_or_incomplete,high
+28d2afae75d84c94f96d5ffc836d2149,3,furniture_decor,"comprei duas cortinas blackout, sw corujas, recebi apenas uma, ha uma cortina que eu saiba e de duas partes conforme a ilustracao no site, estou esperando a outrs",wrong_or_incomplete,high
+46ae55db609ef5b15bd4fbe324a784bb,2,health_beauty,"Ruim. Foi ruim pq eu tive q buscar no correio o produto e depois vi por mais barato em outros sites. Então, pesquisaria mt antes de comprar",other,low
+5ba552f6a978e273f1a89dcbcb15c590,1,health_beauty,"como ainda não recebi o produto que comprei , não posso recomendar esta empresa para ninguem. ESTOU CHOCADA, POIS É A PEIMEIRA VEZ QUE NÃO RECEBO UM PRODUTO QUE COMPREI NA lannister.com. ???????????",not_received,high
+f6aba69d5f13b1786b11b505152936ae,5,bed_bath_table,Cumpriu o acordado,praise,none
+9a1502407ccaab2ed1dec189e881d004,2,unknown,"Entrega feita no prazo, porém o produto entregue não foi o comprado. Estou tentando resolver a situação",wrong_or_incomplete,high
+e4c52fbb954d31e969f66c365227e0b4,1,toys,"Paguei o valor do frete para receber o produto na minha residência, mas na minha cidade toda a área é considerada restrita, isso pela incopetencia da adm dos correios que não tem funcionário suficient",other,medium
+de4f8670c9895cbd3d51ecdfa479a79a,5,electronics,super recomendo.... Adorei o produto!!,praise,none
+21a40d6b28216d468ca32122e41cee68,2,unknown,Sem nenhuma explicação o pedido foi cancelado,seller_service,high
+2408aee51c238e10ff36489c21f261c2,4,telephony,"O produto foi entregue em embalagens protegida, porém apresentou pequenos arranhões",damaged_defective,low
+48a1b2742fd417ea6873014e8050d2c6,1,sports_leisure,"ATÉ AGORA NÃO CHEGOU, MUITO RUIM ESTA LOJA. NÃO COMPRO MAIS. PÉSSIMO",not_received,high
+7297cebba0558e40fa60d919078355d5,1,perfumery,Loja coloca prazo extremamente extenso para entrega de produtos e nem assim consegue cumpri-los,delivery_late,medium
+d42d72e55d54f4d1637e6988f1b7bab2,1,unknown,"Eu indicaria a loja americana, não a targaryen, por ter me vendido um relógio totalmente diferente do qual eu escolhi",wrong_or_incomplete,high
+7daf685460afab41f5471d7d385074ea,1,housewares,estou aguardando posicionamento da loja sobre a entrega,not_received,high
+5f1ad1f41aacfdb6fdc98f8ff5e10bf6,3,bed_bath_table,recomendo. ainda não usei mais recomendo,praise,none
+05a12569f5604c3cc483efc0d186e1cb,1,housewares,O prazo de entrega venceu a 2 dias e ainda não recebi o produto. Já enviei e-mail para essa loja parceira das lannister.com mas eles não respondem,not_received,high
+7d607a81ca4671f6f5337064cefec45f,5,furniture_decor,"O pendente é bonito, mas não é essa cor da foto. Na foto aparenta ser azul claro, e veio azul marinho. Mas veio no prazo e em perfeitas condições. Preguiça de trocar. Mas é bonito mesmo assim",quality_mismatch,low
+61a82583ecce90cd8d6d5fe5b54c11aa,1,auto,Eu cancelei o produto e mesmo assim o produto chegou e pior ainda chegou errado. Estou tentando exaustivamente um diálogo simples e facil com a lojas lannister que foi por onde eu adquirir o produ,wrong_or_incomplete,high
+681e28e68e4956112ad047a3c0a2d0d5,4,electronics,bom produto recomendo a todos esta loja,praise,none
+cdaeac774ba3f46da86aa040799d0b74,3,toys,"Loja amo rápida, atenciosa com consumidor, super recomendo",praise,none
+0c4d314c329d508dd4ec032ca65dbc1d,5,computers_accessories,"Desta vez, bateu record. Fiquei feliz. recomendo sempre",praise,none
+f0dda9c942d289ff541e85d5a0938fe2,4,baby,Gostei do produto. Posso dizer que o produto corresponde ao da foto...Recomendo!!,praise,none
+6cd1ae9bae41d480ecc7f1720d134aad,5,sports_leisure,"Super recomendo. Rápida entrega, e ótimo produto, porém vou devolver devido a meu engano no tamanho",praise,none
+fee30fc36f39354563cd7d087376b120,4,watches_gifts,Boa logística,praise,none
+f996e6cd3f27ea411ecb8f9f6a2c4a4e,3,housewares,"Eu sou cliente de vocês, esse produto foi entregue, no entanto minha outra encomenda está em atraso a 7 dias",delivery_late,medium
+b3949610924ad823dab19492bafb7d5e,4,telephony,película fica excelente,praise,none
+4c1dc2d6c6d86af0cb8be891d285067d,4,bed_bath_table,"Amo os produtos, mas precisava baixar os valores de frete. Muito caros",other,low
+3b42271e8299e57ee641f5fbad8d7e48,3,furniture_decor,"NORMAL. NADA DE MAIS, BAIXA QUALIDADE DE PLASTICO",quality_mismatch,medium
+f80f24eb170d685cf191e4e14c922d8a,4,watches_gifts,"Cumpriu o prazo...,",praise,none
+a28e78c154334130827d4cbd9a41fc6d,4,bed_bath_table,Bem bonita...so não gostei da bainha,quality_mismatch,low
+a72553f23398c06d3e4eda4e08983307,5,watches_gifts,atendeu minhas espectativas,praise,none
+4dc9c624f86c2df64b9c5da8db4ac167,5,food_drink,otimo,praise,none
+b5a9c11a10ed92eb226c9e870c29a1c7,3,watches_gifts,Prazo muito longo pra receber,delivery_late,medium
+bbe6530adb06a46758b9621abf12ffba,4,garden_tools,"uma empresa muito comprometida com os clientes , agradeço por tudo e até a próximo pedido",praise,none
+c72c4e21a4510017a121321380d9d7e8,3,health_beauty,A mercadoria não foi entrega por causa dos correios que enviou a mesma paraum local de retirada de dificil acesso.Em outra cidade,not_received,high
+65ac4bba4305b59ecd3b5e156f5f736b,5,bed_bath_table,"Excelente produto, recomendo!",praise,none
+b574e9b0f264b9e3b28aba26be427937,4,computers_accessories,"Cartucho colorido não foi entregue devido, segundo eles, erro de estoque",wrong_or_incomplete,medium
+d7989de75fe27c02c5a76be7b2a201c8,5,bed_bath_table,"Ótimo lugar para comprar,entregue no prazo",praise,none
+66b26500d3150a442eccac565bd5b6bb,2,watches_gifts,Só quero que o relógio chegue,not_received,high
+c178c650fcaab97f14c230bbde9a3632,5,watches_gifts,"Entrega dentro do prazo, chegou certinho, recomendo a todos",praise,none
+8e509a6344a692c27f6aae2f05dfd204,4,baby,Travesseiro ok,praise,none
+fa47bcbef384bec909ca49c15123a4d2,4,computers_accessories,SIM PRODUTO XEGO NO PRAZO MARCADO RECOMENDO SIM,praise,none
+5d833443716b7115ddce0a1ec34acd71,5,telephony,Confiavel,praise,none
+b56cd03e7e646d56c701c6608807323d,3,watches_gifts,Colocaram uma data e até hje não chegou e new uma data prevista para a entrega vcs colocaram dinovo,not_received,high
+9af35b075a6eade140ae58c39e962249,2,computers_accessories,Muito legal em,praise,none
+6f5c639c3b17fff487b22376bf81ef94,1,toys,Uma criança ficou sem receber seu presente de Natal!,not_received,high
+1e07d52b4015b9290c549d6f86c9ed96,4,watches_gifts,"Excelente, muito bonito. Apenas atrasou a entrega",delivery_late,low
+0c3d8bae2e2edc7c3b44a8d36781efac,1,watches_gifts,"Não posso avaliar, pois ainda não recebi o produto",not_received,high
+538f8c88872b2572225433af17675ab9,1,computers_accessories,"Comprei um Toner CF 360X HP 508X PRETO ORIGINAL de ALTO RENDIMENTO, porém me entregaram um Toner CF360A HP 508A PRETO de BAIXO RENDIMENTO, e ainda fui testar o toner e esta com defeito",wrong_or_incomplete,high
+165bef5979bc57501c6acfa72d8cece6,1,watches_gifts,A nota fiscal foi emitida no dia que deram de prazo para entrega. Até agora o produto não chegou!,not_received,high
+01ca519d0c25d063a42a6ba3dd6b275b,5,health_beauty,Entrega rápida,praise,none
+8de29da5334f10ca790c7d951070d49a,5,baby,Otimo,praise,none
+d0f9f5647d2e6e48e938c040c02e4e38,5,fashion_bags_accessories,Excelente produto!,praise,none
+bee5163af4c433461bd3b46746da4216,5,health_beauty,Bom . Muito bom,praise,none
+b1eff16379510a352380e141d6d6fa93,5,housewares,"Empresa 100% Confiável. Agilidade na entrega ,e produto de alta qualidade, minha Esposa amou conj.Ap de Jantar porcelanato 20pcs Casambient. Parabéns targaryen",praise,none
+4fd63fe56bc10dae199fb2d3a006c65e,1,computers_accessories,"Produto fora da embalagem. O produto veio somente na caixa de envio, embalado no saco bolha, com aspecto de produto usado",damaged_defective,medium
+52b42c74982653dfd947b0d61c3d5457,4,housewares,Super indico,praise,none
+f48b74377ff92c477f164d55b597f952,5,office_furniture,Conforme anunciado e chegou no prazo.,praise,none
+fa0007f39a6cedd4669564e9c528813e,1,pet_shop,"1 mês e ate hj minha encomenda não chegou e o vendedor nem se quer deu satisfação explicando algo mandei 4 reclamação e nada dele responder,",not_received,high
+a9a9489f00b37728b4905e47f2b95a4d,5,health_beauty,Entrega rapida e correta,praise,none
+60745446e130f57738713906a64416bf,4,cool_stuff,"Recomendo. O produto foi entregue antes do prazo, que, no entanto, era bastante amplo",delivery_late,low

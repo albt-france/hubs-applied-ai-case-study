@@ -1,0 +1,12 @@
+pandas
+numpy
+duckdb
+requests
+beautifulsoup4
+anthropic
+pydantic
+python-dotenv
+plotly
+kaleido
+pypdf
+pypdfium2

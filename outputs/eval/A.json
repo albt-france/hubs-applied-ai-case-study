@@ -1,0 +1,120 @@
+{
+  "scenario": "A",
+  "test_set": 100,
+  "mode": "demo",
+  "rules": {
+    "theme": {
+      "accuracy": 0.8,
+      "macro_f1": 0.711,
+      "per_label": {
+        "damaged_defective": {
+          "precision": 0.714,
+          "recall": 1.0,
+          "f1": 0.833,
+          "support": 5
+        },
+        "delivery_late": {
+          "precision": 1.0,
+          "recall": 0.556,
+          "f1": 0.714,
+          "support": 9
+        },
+        "not_received": {
+          "precision": 0.667,
+          "recall": 0.75,
+          "f1": 0.706,
+          "support": 16
+        },
+        "other": {
+          "precision": 0.833,
+          "recall": 0.833,
+          "f1": 0.833,
+          "support": 6
+        },
+        "praise": {
+          "precision": 0.88,
+          "recall": 0.957,
+          "f1": 0.917,
+          "support": 46
+        },
+        "quality_mismatch": {
+          "precision": 0.75,
+          "recall": 0.6,
+          "f1": 0.667,
+          "support": 5
+        },
+        "seller_service": {
+          "precision": 0.333,
+          "recall": 0.5,
+          "f1": 0.4,
+          "support": 4
+        },
+        "wrong_or_incomplete": {
+          "precision": 1.0,
+          "recall": 0.444,
+          "f1": 0.615,
+          "support": 9
+        }
+      }
+    },
+    "severity": {
+      "accuracy": 0.84,
+      "macro_f1": 0.778,
+      "per_label": {
+        "high": {
+          "precision": 0.833,
+          "recall": 0.862,
+          "f1": 0.847,
+          "support": 29
+        },
+        "low": {
+          "precision": 0.75,
+          "recall": 0.667,
+          "f1": 0.706,
+          "support": 9
+        },
+        "medium": {
+          "precision": 0.75,
+          "recall": 0.562,
+          "f1": 0.643,
+          "support": 16
+        },
+        "none": {
+          "precision": 0.88,
+          "recall": 0.957,
+          "f1": 0.917,
+          "support": 46
+        }
+      }
+    },
+    "seconds": 0.0,
+    "high_severity": {
+      "precision": 0.833,
+      "recall": 0.862,
+      "f1": 0.847,
+      "support": 29
+    }
+  },
+  "llm": "pending (no API key)",
+  "notes": {
+    "mode": "demo",
+    "notes": 4,
+    "numbers_checked": 68,
+    "unsupported_numbers": 0
+  },
+  "number_check_stress": {
+    "texts": 4,
+    "clean_texts_passing": 4,
+    "planted_errors": 100,
+    "planted_errors_caught": 84,
+    "missed_collisions": 16,
+    "catch_rate": 0.84
+  },
+  "run": {
+    "reviews_classified": 1196,
+    "runtime_s": 0.1,
+    "calls": 0,
+    "cost_usd": 0,
+    "model_time_s": 0
+  }
+}

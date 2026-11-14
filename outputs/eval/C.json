@@ -1,0 +1,46 @@
+{
+  "scenario": "C",
+  "mode": "demo",
+  "client_months": 30,
+  "reports_passing_checks": 30,
+  "numbers_checked": 300,
+  "unsupported_numbers": 0,
+  "slot_errors": 0,
+  "anomaly_detection": {
+    "planted_events": 27,
+    "found": 23,
+    "recall": 0.852,
+    "recall_by_type": {
+      "price_promo": 0.2,
+      "tracking_outage": 1.0,
+      "viral_spike": 1.0
+    },
+    "detections": 30,
+    "false_alarms": 7,
+    "false_alarms_by_kind": {
+      "conversion_jump": 7
+    },
+    "precision": 0.767
+  },
+  "anomalies_mentioned_in_reports": "30/30",
+  "number_check_stress_final_text": {
+    "texts": 30,
+    "clean_texts_passing": 30,
+    "planted_errors": 150,
+    "planted_errors_caught": 141,
+    "missed_collisions": 9,
+    "catch_rate": 0.94
+  },
+  "typed_number_stress": {
+    "planted": 30,
+    "caught": 30
+  },
+  "runtime_s_30_reports": 0.4,
+  "usage": {
+    "calls": 0,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "cost_usd": 0,
+    "model_time_s": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "scenario": "B",
+  "mode": "demo",
+  "snapshots": 40,
+  "unreadable_in_truth": 6,
+  "extraction": {
+    "plan_price_pairs_truth": 105,
+    "precision": 0.909,
+    "recall": 0.952,
+    "f1": 0.93,
+    "snapshots_exact": 33,
+    "currency_accuracy": 1.0,
+    "promo_prices_found": "2/9",
+    "prices_invented_on_empty_pages": 0
+  },
+  "change_detection": {
+    "periods_labelled": 28,
+    "real_changes": 5,
+    "detected": 4,
+    "missed": 1,
+    "false_alarms": 3,
+    "recall": 0.8,
+    "false_alarm_periods": [
+      "clickup 20260103",
+      "clickup 20260709",
+      "zapier 20260701"
+    ]
+  },
+  "rules_runtime_s": 0.0,
+  "llm_extraction": null
+}

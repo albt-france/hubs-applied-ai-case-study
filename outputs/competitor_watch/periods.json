@@ -1,0 +1,323 @@
+[
+ {
+  "vendor": "asana",
+  "from_ts": "20240705025858",
+  "to_ts": "20250710095152",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "asana",
+  "from_ts": "20250710095152",
+  "to_ts": "20260101113638",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "asana",
+  "from_ts": "20260101113638",
+  "to_ts": "20260701004019",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "asana",
+  "from_ts": "20260701004019",
+  "to_ts": "20261101155342",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "clickup",
+  "from_ts": "20240705193957",
+  "to_ts": "20250103151241",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "clickup",
+  "from_ts": "20250103151241",
+  "to_ts": "20250702000640",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "clickup",
+  "from_ts": "20250702000640",
+  "to_ts": "20260103201321",
+  "changed": true,
+  "changes": [
+   {
+    "type": "plan_added",
+    "plan": "Slack",
+    "new": 9.0
+   },
+   {
+    "type": "plan_added",
+    "plan": "Google Drive",
+    "new": 13.0
+   },
+   {
+    "type": "plan_added",
+    "plan": "Salesforce",
+    "new": 25.0
+   },
+   {
+    "type": "plan_added",
+    "plan": "Loom",
+    "new": 12.0
+   },
+   {
+    "type": "plan_added",
+    "plan": "TOTAL",
+    "new": 354000.0
+   }
+  ]
+ },
+ {
+  "vendor": "clickup",
+  "from_ts": "20260103201321",
+  "to_ts": "20260709031946",
+  "changed": true,
+  "changes": [
+   {
+    "type": "plan_not_found",
+    "plan": "Slack",
+    "old": 9.0,
+    "detail": "verify: removed, renamed or hidden"
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Google Drive",
+    "old": 13.0,
+    "detail": "verify: removed, renamed or hidden"
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Salesforce",
+    "old": 25.0,
+    "detail": "verify: removed, renamed or hidden"
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Loom",
+    "old": 12.0,
+    "detail": "verify: removed, renamed or hidden"
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "TOTAL",
+    "old": 354000.0,
+    "detail": "verify: removed, renamed or hidden"
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Save",
+    "old": 0.0,
+    "detail": "verify: removed, renamed or hidden"
+   }
+  ]
+ },
+ {
+  "vendor": "clickup",
+  "from_ts": "20260709031946",
+  "to_ts": "20261101112332",
+  "changed": true,
+  "changes": [
+   {
+    "type": "plan_added",
+    "plan": "Core",
+    "new": 12.0
+   },
+   {
+    "type": "price_changed",
+    "plan": "Business",
+    "old": 12.0,
+    "new": 25.0
+   },
+   {
+    "type": "promo_changed",
+    "plan": "Business",
+    "old": null,
+    "new": 17.0
+   },
+   {
+    "type": "plan_added",
+    "plan": "Max",
+    "new": 100.0
+   },
+   {
+    "type": "plan_added",
+    "plan": "Free",
+    "new": 0.0
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Unlimited",
+    "old": 7.0,
+    "detail": "verify: removed, renamed or hidden"
+   }
+  ]
+ },
+ {
+  "vendor": "notion",
+  "from_ts": "20250103151242",
+  "to_ts": "20250701134653",
+  "changed": true,
+  "changes": [
+   {
+    "type": "currency_changed",
+    "detail": "currency EUR -> USD: prices not comparable, check manually"
+   }
+  ]
+ },
+ {
+  "vendor": "notion",
+  "from_ts": "20250701134653",
+  "to_ts": "20260101132642",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "notion",
+  "from_ts": "20260101132642",
+  "to_ts": "20260707193243",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "notion",
+  "from_ts": "20260707193243",
+  "to_ts": "20261101205318",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "slack",
+  "from_ts": "20260114054034",
+  "to_ts": "20260703180722",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "slack",
+  "from_ts": "20260703180722",
+  "to_ts": "20261101124103",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "trello",
+  "from_ts": "20240101175537",
+  "to_ts": "20240701184237",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "trello",
+  "from_ts": "20240701184237",
+  "to_ts": "20250102151229",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "trello",
+  "from_ts": "20250102151229",
+  "to_ts": "20250702112339",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "trello",
+  "from_ts": "20250702112339",
+  "to_ts": "20260103011245",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "trello",
+  "from_ts": "20260103011245",
+  "to_ts": "20260701101031",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "trello",
+  "from_ts": "20260701101031",
+  "to_ts": "20261101114208",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "zapier",
+  "from_ts": "20240101193315",
+  "to_ts": "20240701205616",
+  "changed": true,
+  "changes": [
+   {
+    "type": "price_changed",
+    "plan": "Professional",
+    "old": 49.0,
+    "new": 19.99
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Starter",
+    "old": 19.99,
+    "detail": "verify: removed, renamed or hidden"
+   }
+  ]
+ },
+ {
+  "vendor": "zapier",
+  "from_ts": "20240701205616",
+  "to_ts": "20250115072707",
+  "changed": false,
+  "changes": []
+ },
+ {
+  "vendor": "zapier",
+  "from_ts": "20250115072707",
+  "to_ts": "20250703003220",
+  "changed": true,
+  "changes": [
+   {
+    "type": "plan_added",
+    "plan": "Pro",
+    "new": 19.99
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Professional",
+    "old": 19.99,
+    "detail": "verify: removed, renamed or hidden"
+   }
+  ]
+ },
+ {
+  "vendor": "zapier",
+  "from_ts": "20250703003220",
+  "to_ts": "20260701130346",
+  "changed": true,
+  "changes": [
+   {
+    "type": "plan_added",
+    "plan": "Professional",
+    "new": 19.99
+   },
+   {
+    "type": "plan_not_found",
+    "plan": "Pro",
+    "old": 19.99,
+    "detail": "verify: removed, renamed or hidden"
+   }
+  ]
+ },
+ {
+  "vendor": "zapier",
+  "from_ts": "20260701130346",
+  "to_ts": "20261102052452",
+  "changed": false,
+  "changes": []
+ }
+]

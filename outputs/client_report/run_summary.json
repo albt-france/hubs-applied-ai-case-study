@@ -1,0 +1,16 @@
+{
+  "workflow": "client_report",
+  "mode": "demo",
+  "month": "2026-10",
+  "reports": 6,
+  "reports_passing_checks": 6,
+  "numbers_checked": 60,
+  "unsupported_numbers": 0,
+  "slot_errors": 0,
+  "runtime_s": 0.2,
+  "calls": 0,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cost_usd": 0,
+  "model_time_s": 0
+}

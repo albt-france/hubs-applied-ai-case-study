@@ -1,0 +1,866 @@
+{
+ "notion_20250103151242": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "EUR"
+   },
+   {
+    "name": "Plus",
+    "list_price": 9.5,
+    "promo_price": null,
+    "currency": "EUR"
+   },
+   {
+    "name": "Business",
+    "list_price": 14.0,
+    "promo_price": null,
+    "currency": "EUR"
+   }
+  ]
+ },
+ "notion_20250701134653": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Plus",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 20.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "notion_20260101132642": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Plus",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 20.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "notion_20260707193243": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Plus",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 20.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "notion_20261101205318": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Plus",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 20.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "slack_20240111091827": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "slack_20240709115722": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "slack_20250101061223": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "slack_20250701134631": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "slack_20260114054034": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Pro",
+    "list_price": 8.75,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business+",
+    "list_price": 18.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "slack_20260703180722": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Pro",
+    "list_price": 8.75,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business+",
+    "list_price": 18.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "slack_20261101124103": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Pro",
+    "list_price": 8.75,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business+",
+    "list_price": 18.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "asana_20240104224157": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "asana_20240705025858": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Personal",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Starter",
+    "list_price": 10.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Advanced",
+    "list_price": 24.99,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "asana_20250103151242": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "asana_20250710095152": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Personal",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Starter",
+    "list_price": 10.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Advanced",
+    "list_price": 24.99,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "asana_20260101113638": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Personal",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Starter",
+    "list_price": 10.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Advanced",
+    "list_price": 24.99,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "asana_20260701004019": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Personal",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Starter",
+    "list_price": 10.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Advanced",
+    "list_price": 24.99,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "asana_20261101155342": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Personal",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Starter",
+    "list_price": 10.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Advanced",
+    "list_price": 24.99,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20240101175537": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20240701184237": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20250102151229": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20250702112339": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20260103011245": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20260701101031": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "trello_20261101114208": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Standard",
+    "list_price": 5.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Premium",
+    "list_price": 10.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Enterprise",
+    "list_price": 17.5,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "clickup_20240106060020": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "clickup_20240705193957": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Unlimited",
+    "list_price": 7.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Save",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "clickup_20250103151241": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Unlimited",
+    "list_price": 7.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Save",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "clickup_20250702000640": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Unlimited",
+    "list_price": 7.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Save",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "clickup_20260103201321": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Unlimited",
+    "list_price": 7.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Unlimited",
+    "list_price": 7.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Slack",
+    "list_price": 9.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Google Drive",
+    "list_price": 13.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Salesforce",
+    "list_price": 25.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Loom",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "TOTAL",
+    "list_price": 354000.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Save",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "clickup_20260709031946": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Unlimited",
+    "list_price": 7.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 12.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "clickup_20261101112332": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Core",
+    "list_price": 12.0,
+    "promo_price": 9.0,
+    "currency": "USD"
+   },
+   {
+    "name": "Business",
+    "list_price": 25.0,
+    "promo_price": 17.0,
+    "currency": "USD"
+   },
+   {
+    "name": "MAX",
+    "list_price": 120.0,
+    "promo_price": 100.0,
+    "currency": "USD"
+   },
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Max",
+    "list_price": 100.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "zapier_20240101193315": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Starter",
+    "list_price": 19.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Professional",
+    "list_price": 49.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Team",
+    "list_price": 69.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "zapier_20240701205616": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Professional",
+    "list_price": 19.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Team",
+    "list_price": 69.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "zapier_20250115072707": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Professional",
+    "list_price": 19.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Team",
+    "list_price": 69.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "zapier_20250703003220": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Pro",
+    "list_price": 19.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Team",
+    "list_price": 69.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "zapier_20260107111445": {
+  "page_has_prices": false,
+  "plans": []
+ },
+ "zapier_20260701130346": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Professional",
+    "list_price": 19.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Team",
+    "list_price": 69.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ },
+ "zapier_20261102052452": {
+  "page_has_prices": true,
+  "plans": [
+   {
+    "name": "Free",
+    "list_price": 0.0,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Professional",
+    "list_price": 19.99,
+    "promo_price": null,
+    "currency": "USD"
+   },
+   {
+    "name": "Team",
+    "list_price": 69.0,
+    "promo_price": null,
+    "currency": "USD"
+   }
+  ]
+ }
+}

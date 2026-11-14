@@ -1,0 +1,41 @@
+snapshot,truth,pred,exact
+notion_20250103151242,"[('business', 14.0), ('free', 0.0), ('plus', 9.5)]","[('business', 14.0), ('free', 0.0), ('plus', 9.5)]",True
+notion_20250701134653,"[('business', 20.0), ('free', 0.0), ('plus', 10.0)]","[('business', 20.0), ('free', 0.0), ('plus', 10.0)]",True
+notion_20260101132642,"[('business', 20.0), ('free', 0.0), ('plus', 10.0)]","[('business', 20.0), ('free', 0.0), ('plus', 10.0)]",True
+notion_20260707193243,"[('business', 20.0), ('free', 0.0), ('plus', 10.0)]","[('business', 20.0), ('free', 0.0), ('plus', 10.0)]",True
+notion_20261101205318,"[('business', 20.0), ('free', 0.0), ('plus', 10.0)]","[('business', 20.0), ('free', 0.0), ('plus', 10.0)]",True
+slack_20240111091827,[],[],True
+slack_20240709115722,[],[],True
+slack_20250101061223,[],[],True
+slack_20250701134631,[],[],True
+slack_20260114054034,"[('business+', 18.0), ('free', 0.0), ('pro', 8.75)]","[('business+', 18.0), ('free', 0.0), ('pro', 8.75)]",True
+slack_20260703180722,"[('business+', 18.0), ('free', 0.0), ('pro', 8.75)]","[('business+', 18.0), ('free', 0.0), ('pro', 8.75)]",True
+slack_20261101124103,"[('business+', 18.0), ('free', 0.0), ('pro', 8.75)]","[('business+', 18.0), ('free', 0.0), ('pro', 8.75)]",True
+asana_20240104224157,[],[],True
+asana_20240705025858,"[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]","[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]",True
+asana_20250103151242,"[('advanced', 24.99), ('starter', 10.99)]",[],False
+asana_20250710095152,"[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]","[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]",True
+asana_20260101113638,"[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]","[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]",True
+asana_20260701004019,"[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]","[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]",True
+asana_20261101155342,"[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]","[('advanced', 24.99), ('personal', 0.0), ('starter', 10.99)]",True
+trello_20240101175537,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+trello_20240701184237,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+trello_20250102151229,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+trello_20250702112339,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+trello_20260103011245,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+trello_20260701101031,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+trello_20261101114208,"[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]","[('enterprise', 17.5), ('free', 0.0), ('premium', 10.0), ('standard', 5.0)]",True
+clickup_20240106060020,[],[],True
+clickup_20240705193957,"[('business', 12.0), ('unlimited', 7.0)]","[('business', 12.0), ('save', 0.0), ('unlimited', 7.0)]",False
+clickup_20250103151241,"[('business', 12.0), ('unlimited', 7.0)]","[('business', 12.0), ('save', 0.0), ('unlimited', 7.0)]",False
+clickup_20250702000640,"[('business', 12.0), ('unlimited', 7.0)]","[('business', 12.0), ('save', 0.0), ('unlimited', 7.0)]",False
+clickup_20260103201321,"[('business', 12.0), ('unlimited', 7.0)]","[('business', 12.0), ('googledrive', 13.0), ('loom', 12.0), ('salesforce', 25.0), ('save', 0.0), ('slack', 9.0), ('total', 354000.0), ('unlimited', 7.0)]",False
+clickup_20260709031946,"[('business', 12.0), ('unlimited', 7.0)]","[('business', 12.0), ('unlimited', 7.0)]",True
+clickup_20261101112332,"[('business', 25.0), ('core', 12.0), ('free', 0.0), ('max', 120.0)]","[('business', 25.0), ('core', 12.0), ('free', 0.0), ('max', 100.0), ('max', 120.0)]",False
+zapier_20240101193315,"[('free', 0.0), ('professional', 49.0), ('starter', 19.99), ('team', 69.0)]","[('free', 0.0), ('professional', 49.0), ('starter', 19.99), ('team', 69.0)]",True
+zapier_20240701205616,"[('free', 0.0), ('professional', 19.99), ('team', 69.0)]","[('free', 0.0), ('professional', 19.99), ('team', 69.0)]",True
+zapier_20250115072707,"[('free', 0.0), ('professional', 19.99), ('team', 69.0)]","[('free', 0.0), ('professional', 19.99), ('team', 69.0)]",True
+zapier_20250703003220,"[('free', 0.0), ('pro', 19.99), ('team', 69.0)]","[('free', 0.0), ('pro', 19.99), ('team', 69.0)]",True
+zapier_20260107111445,"[('free', 0.0), ('professional', 19.99), ('team', 69.0)]",[],False
+zapier_20260701130346,"[('free', 0.0), ('professional', 19.99), ('team', 69.0)]","[('free', 0.0), ('professional', 19.99), ('team', 69.0)]",True
+zapier_20261102052452,"[('free', 0.0), ('professional', 19.99), ('team', 69.0)]","[('free', 0.0), ('professional', 19.99), ('team', 69.0)]",True

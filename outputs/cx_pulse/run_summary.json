@@ -1,0 +1,15 @@
+{
+  "workflow": "cx_pulse",
+  "mode": "demo",
+  "reviews_classified": 1196,
+  "weeks": 8,
+  "notes": 4,
+  "unsupported_numbers": 0,
+  "numbers_checked": 68,
+  "runtime_s": 0.1,
+  "calls": 0,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cost_usd": 0,
+  "model_time_s": 0
+}
